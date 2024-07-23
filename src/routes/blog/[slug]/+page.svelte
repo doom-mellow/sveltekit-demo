@@ -2,6 +2,6 @@
 export let data
 </script>
 
-<p>
+<p class="font-bold text-cener">
     {data.content}
 </p>
